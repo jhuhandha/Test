@@ -2,5 +2,3 @@
 	
 	header('hhh');
 lksdfnsd
-dsfnldsnhfpsDBHFI 
-DFJGSDJOPGBSD
